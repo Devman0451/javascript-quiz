@@ -1,0 +1,18 @@
+How many legs does a spider have?@8@4@2
+Which one isn't a javascript framework?@Badger@React@Angular
+About how many emails are sent everyday?@60 billion@20 billion@100 billion
+How much did the first 1GB hard drive cost?@$40,000@$1,000@$300
+What was the first form of Random-access storage device?@Williams tube@Micral N@PARC
+Intels largest memory chip in 1969 was?@1 KB@120 KB@400 KB
+About how wide is the Milky Way Galaxy?@100,000 light years@80,000 light years@200,000 light years
+About how long is a light year?@5.88 trillion miles@3 trillion miles@100 billion miles
+How old is our solar system?@4.6 billion years old@7 billion years old@1.3 billion years old
+What is the hottest planet in out solar system?@Venus@Mercury@Mars
+What year did Super Mario Bros. come out?@1985@1983@1986
+How long can termite queens live?@50 years@20 years@6 months
+The total number of ants on the planet is around...@10 quadrillion@5 septillion@9 trillion
+How many ounces in a pound?@16 oz@24 oz@32 oz
+What is the Newtonian equation for force?@F=ma@F=1/2mv@F=ma/2
+Which one isn't a css preprocessor?@Quartz@Sass@Less
+How man cm are in an inch?@2.54 cm@3.14 cm@1.5 cm
+How many yards are in a mile?@1760 yards@2130 yards@980 yards 

@@ -1,0 +1,104 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fd7b66;
+}
+
+.container {
+    margin: 0 auto;
+    font-family: 'Righteous', cursive;
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.title {
+    line-height: 1.3;
+    color: #040403;
+    margin-bottom: 4rem;
+}
+
+.title h1 {
+    font-size: 3rem;
+    letter-spacing: 3px;
+    color: #fdfad6;
+    font-family: 'Luckiest Guy', cursive;
+    text-shadow: 1px 4px 5px #040403;
+}
+
+.title h2 {
+    font-size: 2rem;
+}
+
+.question-box {
+    position: relative;
+    background: #d9290a;
+    width: 480px;
+    height: 160px;
+    box-shadow: 2px 2px 3px #040403;
+}
+
+.question-box .question {
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    color: #fdfad6;
+}
+
+.answers {
+    display: none;
+}
+
+.button-labels {
+    position: absolute;
+    top: 3rem;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    width: 100%;
+    height: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.button-labels .dots {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    display: inline-block;
+    background: #fdfad6;
+    transition: 250ms;
+}
+
+.button-labels .dots:hover {
+    background: #ffd5ae;
+    transition: 200ms;
+}
+
+.answer1-text, .answer2-text, .answer3-text {
+    position: absolute;
+    font-size: .8rem;
+    color: #fdfad6;
+    width: 8rem;
+}
+
+.answer1-text {
+    top: 6.7rem;
+    left: 2.2rem;
+}
+
+.answer2-text {
+    top: 6.7rem;
+    left: 12.2rem;
+}
+
+.answer3-text {
+    top: 6.7rem;
+    left: 22.2rem;
+}
